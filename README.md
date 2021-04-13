@@ -1,1 +1,1 @@
-# JavaScript Music Player for personal use
+# JavaScript Music Player for Personal Use
